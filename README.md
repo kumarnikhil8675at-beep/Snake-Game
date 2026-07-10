@@ -102,7 +102,3 @@ images/snake-game.png
 - Global Variables
 
 ---
-
-## 👨‍💻 Author
-
-Made with ❤️ by **Your Name**
